@@ -2,6 +2,11 @@
 
 Public release repository for Ani Mobile Plus APKs.
 
+## Credits
+
+- Based on [ani-cli](https://github.com/pystardust/ani-cli)
+- Inspired by and extended from [Ani Mobile](https://github.com/mdrokz/ani_mobile)
+
 ## Download
 
 - [Universal APK](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.0.0%2B14/AniMobilePlus-universal-v2.0.0+14.apk)
