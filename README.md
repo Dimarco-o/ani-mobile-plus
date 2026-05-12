@@ -9,8 +9,8 @@ Public release repository for Ani Mobile Plus APKs.
 
 ## Download
 
-- [Universal APK](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.0.0%2B14/AniMobilePlus-universal-v2.0.0+14.apk)
-- [ARM64 APK](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.0.0%2B14/AniMobilePlus-arm64-v2.0.0+14.apk)
+- [Universal APK](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.0.0%2B19/AniMobilePlus-universal-v2.0.0+19.apk)
+- [ARM64 APK](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.0.0%2B19/AniMobilePlus-arm64-v2.0.0+19.apk)
 
 ## Which one should I use?
 
@@ -26,4 +26,3 @@ Public release repository for Ani Mobile Plus APKs.
 ## Updates
 
 - The installed app checks this repository on launch for newer releases.
-- Publish a new release with a higher version/build number when you ship an update.
