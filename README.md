@@ -1,6 +1,6 @@
 # Ani Mobile Plus Releases
 
-Public release repository for Ani Mobile Plus APKs.
+Public release repository for Ani Mobile Plus APKs and the Watch Anime desktop app.
 
 ## Credits
 
@@ -9,8 +9,9 @@ Public release repository for Ani Mobile Plus APKs.
 
 ## Download
 
-- [Universal APK](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.0.0%2B19/AniMobilePlus-universal-v2.0.0+19.apk)
-- [ARM64 APK](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.0.0%2B19/AniMobilePlus-arm64-v2.0.0+19.apk)
+- [Universal APK](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.1.1%2B22/AniMobilePlus-universal-v2.1.1+22.apk)
+- [ARM64 APK](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.1.1%2B22/AniMobilePlus-arm64-v2.1.1+22.apk)
+- [Watch Anime for Windows](https://github.com/Dimarco-o/ani-mobile-plus/releases/download/v2.1.1%2B22/WatchAnime-2.0.0-Windows.zip) (desktop app, needs mpv)
 
 ## Which one should I use?
 
@@ -22,6 +23,8 @@ Public release repository for Ani Mobile Plus APKs.
 1. Download the APK that matches your device.
 2. Allow installs from this source if Android asks.
 3. Open the APK to install.
+
+On Windows: extract the zip and run `Install Watch Anime.bat`.
 
 ## Updates
 
